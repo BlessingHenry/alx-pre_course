@@ -1,1 +1,1 @@
-My first readme Updated
+ALX SE is exciting
